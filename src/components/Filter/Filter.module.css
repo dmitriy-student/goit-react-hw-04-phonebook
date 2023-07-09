@@ -1,0 +1,11 @@
+.filter_label {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+.filter_input {
+  display: flex;
+  width: 200px;
+  margin-top: 10px;
+}
